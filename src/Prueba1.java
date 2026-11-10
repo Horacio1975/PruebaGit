@@ -5,7 +5,8 @@ class Prueba1 {
 		System.out.println("Esta es la clase 11");
 		System.out.println("");
 		
-		System.out.println("Texto alternativo desde OTRA PRUEBA");
+		System.out.println("Texto de la rama OTRA PRUEBA");
+
 
 		System.out.println("");
 		
