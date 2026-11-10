@@ -4,7 +4,7 @@ class Prueba1 {
 		System.out.print("Hola Mundo");
 		System.out.print("Esta es la clase 11");
 		
-		System.out.print("¡Este es un cambio loco en mi rama de pruebas!");
+		System.out.print("Texto original de la rama MAIN");
 
 	}
 
