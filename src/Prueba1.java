@@ -14,6 +14,9 @@ class Prueba1 {
 		String nombre = "Horacio";
 		System.out.print("Mi nombre es: "+nombre);
 		System.out.println("");
+		String apellido = "Quinteros";
+		System.out.println("Mi apellido es: " + apellido);
+
 		
 		int edad= 51;
 		System.out.println("Mi edad es: "+edad);
